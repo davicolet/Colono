@@ -58,7 +58,7 @@
      <Compile Include="Assets\Scripts\movimento.cs" />
      <Compile Include="Assets\Scripts\splashFade.cs" />
  <Reference Include="Facebook.Unity.Settings">
- <HintPath>C:/Users/Davi/Desktop/Nova pasta (2)/Colono/Library/FacebookSDK/Facebook.Unity.Settings.dll</HintPath>
+ <HintPath>C:/Users/Davi/Desktop/Colono/Library/FacebookSDK/Facebook.Unity.Settings.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
